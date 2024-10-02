@@ -60,7 +60,7 @@ const portfolio = [
   {
     name: "MLOps for High-Frequency Trading",
     description:
-      "Built a sophisticated AI model, achieving 70% accuracy in predicting price movements. Integrated the model into a Flask-based API, processing 500 alerts per minute with a 82% success rate in executing trades.Optimized system for 100 millisecond latency and 99.99% uptime using Kubernetes. Implemented GitOps, reducing deployment time by 50% and increasing deployment frequency by 75%.Built a robust API handling 1000 requests per second with 99.99% uptime. Integrated with TradingView for real-time signal processing, it reduces trade execution latency by 5%. Deployed the system on a scalable Kubernetes architecture with 10 pods and 3 replicas, achieving 75% resource utilization.",
+      "Built a sophisticated AI model, achieving 70% accuracy in predicting price movements. Integrated the model into a Flask-based API, processing 500 alerts per minute with a 82% success rate in executing trades.Optimized system for 100 millisecond latency and 99.99% uptime using Kubernetes. Implemented GitOps, reducing deployment time by 50% and increasing deployment frequency by 75%.Built a robust API handling 1000 requests per second with 99.99% uptime. Integrated with TradingView for real-time signal processing, it reduces trade execution latency by 5%.",
     image: oscs,
   },
   {
